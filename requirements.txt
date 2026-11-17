@@ -17,3 +17,5 @@ pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
 requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
 urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+mkdocs-llmstxt>=0.5.1
+mkdocs-percona-llmstxt @ git+https://github.com/EvgeniyPatlan/mkdocs-percona-llmstxt@d52e840cd7ad171233eb98a4eb998e30fec5e19f  # v0.2.0
